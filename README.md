@@ -5,6 +5,6 @@ SoftUni JS Back End Course Project
 
  - [x] Initialize Project
  - [x] Add Express Server
- - [ ] Add Workshop Resources
+ - [x] Add Workshop Resources
  - [ ] Setup Hamdlebars
  - [ ] Render Home Page

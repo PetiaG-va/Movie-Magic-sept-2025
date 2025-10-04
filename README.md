@@ -14,12 +14,20 @@ SoftUni JS Back End Course Project
  - [x] Add Layout
  - [x] Render About Page
 ---
-### Architecrute
+### Architecrute and dynamic rendering
  - [x] Add Home Controller
  - [x] Add Movie Data Layer
  - [x] Add Movie Service
  - [x] Render Movies on home page
- - [x] Show no movies screen 
+ - [x] Show no movies screen
  ---
- - [ ] Add Routes 
- - [ ] 
+ ### Movie creation
+ - [x] Add Movie Controller
+ - [ ] Show Create Movie Page
+ - [ ] Add Routes
+ - [ ] Read body data
+ - [ ] Create Movie 
+    - [ ] Add model method for creating movie
+    - [ ] Add Service
+    - [ ] Add Action
+ - [ ] Add 404 Page

@@ -10,3 +10,5 @@ SoftUni JS Back End Course Project
  - [x] Setup Hamdlebars `npm i express-handlebars` 
  - [x] Setup Static files
  - [x] Render Home Page
+ - [x] Add Layout
+ - [ ] Render About Page

@@ -12,8 +12,11 @@ app.engine('hbs', handlebars.engine({
 app.set('view engine', 'hbs');
 app.set('views', 'src/views');
 
-// Setup middlewares
+// Setup static middlewares
 app.use(express.static('src/public'));
+
+//Parse form data from request
+app.use(express.urlencoded()); 
 
 // Routes
 app.use(routes);

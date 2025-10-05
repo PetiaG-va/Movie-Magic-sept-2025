@@ -5,8 +5,8 @@ import movieController from './controllers/movieController.js';
 
 const routes = Router();
 
-app.use(homeController);
-app.use('/movies', movieController);
+routes.use(homeController);
+routes.use('/movies', movieController);
 
 export default routes;
 

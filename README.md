@@ -25,7 +25,7 @@ SoftUni JS Back End Course Project
  - [x] Add Movie Controller
  - [x] Show Create Movie Page
  - [x] Add Routes
- - [ ] Read body data
+ - [x] Read body data
  - [ ] Create Movie 
     - [ ] Add model method for creating movie
     - [ ] Add Service

@@ -29,5 +29,5 @@ SoftUni JS Back End Course Project
  - [ ] Create Movie 
     - [x] Add Action
     - [x] Add Service
-    - [ ] Add model method for creating movie
+    - [x] Add model method for creating movie
  - [ ] Add 404 Page

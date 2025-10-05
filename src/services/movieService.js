@@ -8,6 +8,8 @@ export default {
     create(movieData) {
         // TODO Create movie
         console.log(movieData);
-        
+
+        const movie = new Movie(movieData);
+        return movie.save();
     }
 }

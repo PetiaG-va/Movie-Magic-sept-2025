@@ -21,10 +21,11 @@ SoftUni JS Back End Course Project
  - [x] Render Movies on home page
  - [x] Show no movies screen
  ---
- ### Movie creation
+### Movie creation
  - [x] Add Movie Controller
  - [x] Show Create Movie Page
  - [x] Add Routes
+ - [x] Add 404 Page
  - [x] Read body data
  - [x] Create Movie 
     - [x] Add Action
@@ -32,4 +33,19 @@ SoftUni JS Back End Course Project
     - [x] Add Model Method For Creating Movie
  - [x] Redirect After Creation
  - [x] Add Unnique ID For Each Created Movie
- - [ ] Add 404 Page
+---
+### Details Page
+ - [ ]
+ - [ ]
+ - [ ]
+---
+### Search Page
+ - [ ]
+ - [ ]
+ - [ ]
+
+---
+### Bonuses
+ - [ ] File Persistance
+
+

@@ -27,7 +27,7 @@ SoftUni JS Back End Course Project
  - [x] Add Routes
  - [x] Read body data
  - [ ] Create Movie 
+    - [x] Add Action
+    - [x] Add Service
     - [ ] Add model method for creating movie
-    - [ ] Add Service
-    - [ ] Add Action
  - [ ] Add 404 Page

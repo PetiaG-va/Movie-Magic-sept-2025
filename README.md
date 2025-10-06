@@ -39,12 +39,14 @@ SoftUni JS Back End Course Project
  - [x] Add Route With Param For Details Page
  - [x] GetOne Movie From Service
  - [x] Find Movie by Id From Model
- - [ ] Render Details Page With Dynamic Data
+ - [x] Render Details Page With Dynamic Data
 ---
 ### Search Page
- - [ ]
- - [ ]
- - [ ]
+ - [ ] Show Static Search Page
+ - [ ] Render All Movies 
+ - [ ] Modify Search Form
+ - [ ] Filter Movies
+ - [ ] Remember Search Words
 
 ---
 ### Bonuses

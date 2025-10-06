@@ -43,20 +43,20 @@ export default class Movie {
         this._id = uuid();
     }
     
-    static find(filter) {
+    static find(filter = {}) {
         let result = movies.slice();
         
         if (filter._id) {
-            result = result.find(movie => movie._id === filter._id)
+            result = movies.find(movie => movie._id === filter._id)
         };
         return result;
     }
     
-    static findOne (filter) {
+    static findOne (filter = {}) {
         let result = movies[0];
 
         if (filter._id) {
-            result = result.find(movie => movie._id === filter._id);
+            result = movies.find(movie => movie._id === filter._id);
         };
 
         return result;

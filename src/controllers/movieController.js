@@ -18,7 +18,7 @@ movieController.get('/:movieId/details', (req, res) => {
     const movieId = req.params.movieId;
     const movie = movieService.getOne(movieId);
 
-    res.end();
+    res.render('details', {movie});
     
 })
 

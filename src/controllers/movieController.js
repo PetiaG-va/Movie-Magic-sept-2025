@@ -18,11 +18,12 @@ movieController.get('/:movieId/details', (req, res) => {
     const movieId = req.params.movieId;
     const movie = movieService.getOne(movieId);
 
-    res.render('details', {movie});
+    res.render('details', { movie });
 });
 
 movieController.get('/search', (req, res) => {
-    res.render('search');
+    const movies = movieService.getAll();
+    res.render('search', { movies });
 })
 
 export default movieController;

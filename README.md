@@ -42,8 +42,8 @@ SoftUni JS Back End Course Project
  - [x] Render Details Page With Dynamic Data
 ---
 ### Search Page
- - [ ] Show Static Search Page
- - [ ] Render All Movies 
+ - [x] Show Static Search Page
+ - [x] Render All Movies 
  - [ ] Modify Search Form
  - [ ] Filter Movies
  - [ ] Remember Search Words

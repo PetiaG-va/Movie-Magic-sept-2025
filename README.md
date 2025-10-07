@@ -48,7 +48,7 @@ SoftUni JS Back End Course Project
  - [ ] Filter Movies
    - [x] By Year
    - [x] By Genre
-   - [ ] By Title
+   - [x] By Title
  - [ ] Remember Search Words
 
 ---

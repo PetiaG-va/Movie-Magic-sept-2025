@@ -18,8 +18,14 @@ SoftUni JS Back End Course Project
  - [x] Add Home Controller
  - [x] Add Movie Data Layer
  - [x] Add Movie Service
+<<<<<<< HEAD
  - [x] Render Movies on home page
  - [x] Show no movies screen
+=======
+ - [ ] Render Movies on home page
+ - [ ] Show no movies screeen
+ - [ ] 
+>>>>>>> parent of ef7c918 (Render dinamyc movies on home page)
  ---
 ### Movie creation
  - [x] Add Movie Controller
@@ -53,8 +59,8 @@ SoftUni JS Back End Course Project
 
 ---
 ### Bonuses
- - [ ] Dynamic Page Title
+ - [x] Dynamic Page Title
+ - [x] Rating
  - [ ] File Persistance
- - [ ] Rating
 
 

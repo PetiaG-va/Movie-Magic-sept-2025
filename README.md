@@ -45,11 +45,11 @@ SoftUni JS Back End Course Project
  - [x] Show Static Search Page
  - [x] Render All Movies 
  - [x] Modify Search Form
- - [ ] Filter Movies
+ - [x] Filter Movies
    - [x] By Year
    - [x] By Genre
    - [x] By Title
- - [ ] Remember Search Words
+ - [x] Remember Search Words
 
 ---
 ### Bonuses

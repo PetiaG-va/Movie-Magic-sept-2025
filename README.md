@@ -74,15 +74,20 @@ SoftUni JS Back End Course Project
  - [x] Import File Movies To DB
  - [x] Fix own property handlebars preblem with lean method
  - [x] General fix for own property
- - [ ] 
- - [ ] 
- - [ ] 
- - [ ] 
+ - [x] Refactor details
+ - [x] Refactor create
+ - [x] Refactor search
+
+### Add Cast
+ - [ ] Add case model
  - [ ] 
 
+### Add Cast To Movie
 
- - [ ] Add New Resources
-
+### Show Cast On Details
+ - [ ]
+ 
+ - [ ] Add new resources
 ### Bonuses
  - [ ] Env Vatiables
 

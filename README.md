@@ -72,22 +72,23 @@ SoftUni JS Back End Course Project
   - [x] Create Movie Schema
   - [x] Create Movie Model
  - [x] Import File Movies To DB
- - [x] Fix own property handlebars preblem with lean method
- - [x] General fix for own property
- - [x] Refactor details
- - [x] Refactor create
- - [x] Refactor search
+ - [x] Fix Own Property Handlebars Problem With Lean Method
+ - [x] General Fix For Own Property
+ - [x] Refactor Details
+ - [x] Refactor Create
+ - [x] Refactor Search
 
 ### Add Cast
- - [ ] Add case model
- - [ ] 
+ - [x] Add new resources
+ - [ ] Add Cast Model
+ - [ ] Create Cast Service
+ - [ ] Create Cast Controller
 
-### Add Cast To Movie
+### Attach Cast To Movie
 
 ### Show Cast On Details
  - [ ]
  
- - [ ] Add new resources
 ### Bonuses
  - [ ] Env Vatiables
 

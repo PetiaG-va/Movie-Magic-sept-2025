@@ -1,8 +1,11 @@
 import Movie from "../models/Movie.js";
 
 export default {
-    getAll(filter) {
-        return Movie.find(filter);
+    async getAll(filter) {
+        const result = await Movie.find(filter).lean();
+        //const resultObj = result.map(movie => movie.toObject());
+        //return resultObj;
+        return result;
     },
 
     getOne(movieId) {

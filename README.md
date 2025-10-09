@@ -71,7 +71,7 @@ SoftUni JS Back End Course Project
  - [x] Add Movie Model
   - [x] Create Movie Schema
   - [x] Create Movie Model
- - [ ] Refactor movie service
+ - [x] Import file movies to DB
 
 
  - [ ] Add New Resources

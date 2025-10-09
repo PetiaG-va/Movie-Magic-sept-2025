@@ -73,5 +73,7 @@ SoftUni JS Back End Course Project
 
  - [ ] Add New Resources
 
+### Bonuses
+ - [ ] Env Vatiables
 
 

@@ -74,6 +74,11 @@ SoftUni JS Back End Course Project
  - [x] Import File Movies To DB
  - [x] Fix own property handlebars preblem with lean method
  - [x] General fix for own property
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
 
 
  - [ ] Add New Resources

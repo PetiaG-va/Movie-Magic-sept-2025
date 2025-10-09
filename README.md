@@ -86,12 +86,19 @@ SoftUni JS Back End Course Project
  - [x] Create Cast Service
  - [x] Create Cast Functionallity
 
-### Attach Cast To Movie
+### Attach Cast To Movie (relations)
+ - [ ] Add Attach Cast Button
+ - [ ] Add Attach Cast Page
+ - [ ] Add Ralation Between Cast And Movie
+ - [ ] Add Attach Cast Functionallity
 
-### Show Cast On Details
+### Show Cast On Details (population)
  - [ ]
  
 ### Bonuses
  - [ ] Env Vatiables
+ - [ ] Name in movie
+ - [ ] Back refference from vscode
+ - [ ] Add movie views to a folder
 
 

@@ -13,17 +13,14 @@ SoftUni JS Back End Course Project
  - [x] Render Home Page
  - [x] Add Layout
  - [x] Render About Page
----
+
 ### Architecrute and dynamic rendering
  - [x] Add Home Controller
  - [x] Add Movie Data Layer
  - [x] Add Movie Service
-<<<<<<< HEAD
  - [x] Render Movies on home page
  - [x] Show no movies screen
- - [x] Render Movies on home page
- - [x] Show no movies screeen
- ---
+ 
 ### Movie creation
  - [x] Add Movie Controller
  - [x] Show Create Movie Page
@@ -36,14 +33,14 @@ SoftUni JS Back End Course Project
     - [x] Add Model Method For Creating Movie
  - [x] Redirect After Creation
  - [x] Add Unnique ID For Each Created Movie
----
+
 ### Details Page
  - [x] Add Navigation Button For Details Page
  - [x] Add Route With Param For Details Page
  - [x] GetOne Movie From Service
  - [x] Find Movie by Id From Model
  - [x] Render Details Page With Dynamic Data
----
+
 ### Search Page
  - [x] Show Static Search Page
  - [x] Render All Movies 
@@ -54,11 +51,10 @@ SoftUni JS Back End Course Project
    - [x] By Title
  - [x] Remember Search Words
 
----
 ### Bonuses
  - [x] Dynamic Page Title
  - [x] Rating
  - [x] File Persistance
----
+
 
 

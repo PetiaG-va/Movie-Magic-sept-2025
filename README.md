@@ -59,16 +59,18 @@ SoftUni JS Back End Course Project
 ## Workshop 2 - MongoDB Database
 
 ### Prerequisites
- - [ ] Install MongoDB Community Server
- - [ ] Install Compass GUI
- - [ ] Install Mongosh CLI (optional)
+ - [x] Install MongoDB Community Server
+ - [x] Install Compass GUI
+ - [x] Install Mongosh CLI (optional)
 
 ### Setup Database
- - [ ] Install Mongoose `npm i mongoose`
- - [ ] Connect to DB 
+ - [x] Install Mongoose `npm i mongoose`
+ - [x] Connect to DB 
 
 ### Refactor Movies To Use Mongoose
- - [ ] Add Movie Model
+ - [x] Add Movie Model
+  - [x] Create Movie Schema
+  - [x] Create Movie Model
 
 
  - [ ] Add New Resources

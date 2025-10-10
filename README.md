@@ -96,6 +96,8 @@ SoftUni JS Back End Course Project
 
 ### Show Cast On Details (population)
  - [ ] Get Movie Casts Filtred
+ - [ ] Show Casts on details
+ - [ ] 
  
 ### Bonuses
  - [ ] Env Vatiables

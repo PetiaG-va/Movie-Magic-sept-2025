@@ -90,7 +90,7 @@ SoftUni JS Back End Course Project
  - [x] Add Attach Cast Button
  - [x] Add Attach Cast Page
  - [x] Add Dynamic Data To Cast Page
- - [ ] Add Show Cast List In Attach Select
+ - [x] Show Cast List In Attach Select
  - [ ] Add Ralation Between Cast And Movie
  - [ ] Add Attach Cast Functionallity
 
@@ -99,6 +99,7 @@ SoftUni JS Back End Course Project
  
 ### Bonuses
  - [ ] Env Vatiables
+ - [ ] Filter Casts If They Are Already Attached 
  - [ ] Name in movie
  - [ ] Back refference from vscode
  - [ ] Add movie views to a folder

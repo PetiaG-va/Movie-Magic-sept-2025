@@ -97,11 +97,11 @@ SoftUni JS Back End Course Project
 ### Show Cast On Details (population)
  - [x] Get Movie Casts Filtred
  - [x] Show Casts on details
- - [ ] Get Movie Casts Using Population 
+ - [x] Get Movie Casts Using Population 
  
 ### Bonuses
- - [ ] Env Vatiables
  - [ ] Filter Casts If They Are Already Attached 
+ - [ ] Env Vatiables
  - [ ] Name in movie
  - [ ] Back refference from vscode
  - [ ] Add movie views to a folder

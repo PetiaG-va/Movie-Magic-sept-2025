@@ -100,10 +100,20 @@ SoftUni JS Back End Course Project
  - [x] Get Movie Casts Using Population 
  
 ### Bonuses
- - [ ] Filter Casts If They Are Already Attached 
+ - [x] Filter Casts If They Are Already Attached 
  - [ ] Env Vatiables
  - [ ] Name in movie
  - [ ] Back refference from vscode
  - [ ] Add movie views to a folder
 
+## Workshop 3 Session and Authentication
 
+### Initial Setup
+ - [x] Add Resources
+
+### Registration
+ - [ ] 
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]

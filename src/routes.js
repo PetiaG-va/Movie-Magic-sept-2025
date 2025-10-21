@@ -1,6 +1,6 @@
 import { Router } from 'express';
 
-import homeController from './controllers/homeController.js ';
+import homeController from './controllers/homeController.js';
 import movieController from './controllers/movieController.js';
 import castController from './controllers/castControllers.js';
 import authController from './controllers/authController.js';

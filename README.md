@@ -122,6 +122,6 @@ SoftUni JS Back End Course Project
 ### Login
  - [x] Add login page 
  - [ ] Handle login page
- - [ ] Validate user
- - [ ] Validate password
- - [ ] Create token
+  - [x] Validate user
+  - [x] Validate password
+  - [ ] Create token

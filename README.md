@@ -71,7 +71,7 @@ SoftUni JS Back End Course Project
  - [x] Add Movie Model
   - [x] Create Movie Schema
   - [x] Create Movie Model
- - [x] Import File Movies To DB
+ - [x] Import File Movies To DB !DON`t IMPORT IDs
  - [x] Fix Own Property Handlebars Problem With Lean Method
  - [x] General Fix For Own Property
  - [x] Refactor Details

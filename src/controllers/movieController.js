@@ -22,9 +22,9 @@ movieController.post('/create', isAuth , async(req, res) => {
     res.redirect('/');
 });
 
-movieController.get('/:movieId/details', async (req, res) => {
+movieController.get('/:movieId/details', async(req, res) => {
     const movieId = req.params.movieId;
-    const movie = await movieService.getOneDetailed(movieId);
+    const movie = await movieService.getOne(movieId);
 
     // TODO Prepare view data (temp solution)
     const ratingViewData = '&#x2605;'.repeat(Math.trunc(movie.rating));
@@ -73,5 +73,14 @@ movieController.get('/:movieId/edit',  async (req, res) => {
     const movie = await movieService.getOne(movieId)
     res.render('movies/edit', { movie });
 });
+
+movieController.post('/:movieId/edit', async (req, res) => {
+    const movieId = req.params.movieId;
+    const movieData = req.body;
+
+    await movieService.edit(movieId, movieData);
+
+    res.redirect(`/movies/${movieId}/details`)
+})
 
 export default movieController;

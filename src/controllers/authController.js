@@ -26,6 +26,16 @@ authController.post('/login', async (req, res) => {
     res.cookie('auth', token);
 
     res.redirect('/');
-})
+});
+
+authController.get('/logout', (req, res) => {
+    // Clear auth cookie
+    res.clearCookie('auth');
+
+    // Bonus: Invalidate JWT token
+    
+
+    res.redirect('/');
+});
 
 export default authController;

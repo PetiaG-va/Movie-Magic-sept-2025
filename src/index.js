@@ -3,6 +3,8 @@ import handlebars from 'express-handlebars';
 import mongoose from 'mongoose';
 
 import routes from './routes.js';
+import cookieParser from 'cookie-parser';
+import authMiddleware from './middleware/authMiddleware.js';
 
 const app = express();
 
@@ -16,7 +18,7 @@ try {
     console.log('Successfully connected to DB!');
 } catch (error) {
     console.error('Cannot connect to DB, ', error.message);
-}
+};
 
 // Setup Handlebars
 app.engine('hbs', handlebars.engine({
@@ -35,6 +37,12 @@ app.use(express.static('src/public'));
 
 //Parse form data from request
 app.use(express.urlencoded()); 
+
+// Cookie parser 
+app.use(cookieParser());
+
+// Use auth middleware
+app.use(authMiddleware);
 
 // Routes
 app.use(routes);

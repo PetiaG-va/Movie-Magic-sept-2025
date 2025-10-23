@@ -152,7 +152,8 @@ SoftUni JS Back End Course Project
  - [x] Add creator validation
 
 ### Edit movies
- - [ ] 
+ - [x] Add edit page 
+ - [ ] Add dynamic movie data to movie page
 
 ### Bonus
  - [ ] Automatic login on register

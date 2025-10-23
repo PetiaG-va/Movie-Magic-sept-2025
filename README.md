@@ -138,7 +138,8 @@ SoftUni JS Back End Course Project
  - [x] Add isGuest route guard
 
 ### Dynamic Navigation
- - [ ] 
+ - [x] Group navigation by user type (all, authenticated and guest) 
+ - [x] Add auth info to handleb ars context
 
 ### Delete movies
  - [ ] 

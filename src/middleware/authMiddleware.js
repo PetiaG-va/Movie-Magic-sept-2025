@@ -15,6 +15,10 @@ import { JWT_SECRET } from '../config/constants.js';
         req.user = decodedToken;
         req.isAuthenticated = true;
 
+        // Add to handlebars context
+        res.locals.isAuthenticated = true;
+        res.locals.user = decodedToken;
+
         // Valid user
         next();
     } catch (error) {

@@ -141,7 +141,12 @@ SoftUni JS Back End Course Project
  - [x] Group navigation by user type (all, authenticated and guest) 
  - [x] Add auth info to handleb ars context
 
+### Show creator control buttons
+ - [ ] 
+
 ### Delete movies
+ - [ ] 
+ - [ ] 
  - [ ] 
 
 ### Edit movies

@@ -142,7 +142,9 @@ SoftUni JS Back End Course Project
  - [x] Add auth info to handleb ars context
 
 ### Show creator control buttons
- - [ ] Add edit and delete buttons on details page
+ - [x] Add edit and delete buttons on details page
+ - [x] Add creator as relation to movies
+ - [x] Add user as creator on movie create
  - [ ] Show buttons only for creators
 
 ### Delete movies

@@ -158,6 +158,7 @@ SoftUni JS Back End Course Project
 
 ### Bonus
  - [ ] Automatic login on register
+ - [x] Edit category
  - [ ] Invalidate token on logout
  - [ ] Refresh token
 

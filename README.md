@@ -149,8 +149,7 @@ SoftUni JS Back End Course Project
 
 ### Delete movies
  - [x] Add delete action
- - [ ] 
- - [ ] 
+ - [x] Add creator validation
 
 ### Edit movies
  - [ ] 

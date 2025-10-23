@@ -22,4 +22,12 @@ import { JWT_SECRET } from '../config/constants.js';
         res.clearCookie('auth');
         res.redirect('/auth/login');
     }
+};
+
+export function isAuth(req, res, next) {
+    if (!req.isAuthenticated) {
+        return res.redirect('/auth/login');
+    }
+
+    next();
 }

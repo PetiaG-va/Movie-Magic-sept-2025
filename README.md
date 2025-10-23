@@ -132,10 +132,9 @@ SoftUni JS Back End Course Project
  - [x] Clear cookie
 
 ### Authorization
- - [ ] Install cookie parser
- - [ ] Add auth middleware
- - [ ] Validate user authentication
- - [ ] 
+ - [x] Install cookie parser
+ - [x] Add auth middleware 
+ - [x] Add route guard
 
 ### Dynamic Navigation
  - [ ] 
